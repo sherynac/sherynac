@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sheryn! 👋</h1>
-<h3 align="center">I am currently a third-year BS Computer Science student at Saint Louis University - Baguio. In my years of studying, I found a great interest in web technologies, data science, and artificial intelligence. Currently, I am focusing on studying data analytics using the Python programming language through BingeProject, a movie recommendation system.</h3>
+<p>align="left">I am currently a third-year BS Computer Science student at Saint Louis University - Baguio. In my years of studying, I found a great interest in web technologies, data science, and artificial intelligence. Currently, I am focusing on studying data analytics using the Python programming language through BingeProject, a movie recommendation system.</p>
 
 - 📫 How to reach me **https://www.linkedin.com/in/sheryn-cagulada/**
 
