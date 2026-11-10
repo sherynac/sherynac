@@ -1,5 +1,5 @@
 <h1 align="left">Hi, I'm Sheryn! 👋</h1>
-<p align="left">I am currently a third-year BS Computer Science student at Saint Louis University - Baguio. In my years of studying, I found a great interest in web technologies, data science, and artificial intelligence. Currently, I am focusing on studying data analytics using the Python programming language through BingeProject, a movie recommendation system.</p>
+<p align="left">I am currently a Summa Cum Laude graduate of BS Computer Science at Saint Louis University - Baguio. In my years of studying, I found a great interest in web technologies, data science, and artificial intelligence.</p>
 
 <h3 align="left"> Connect With Me 📩 </h3>
 <p align="left"> I am always looking for opportunities to expand my knowledge and collaborate with other people. Feel free to reach out and let's get to know each other!</p>
